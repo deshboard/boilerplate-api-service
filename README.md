@@ -1,6 +1,6 @@
-# Boilerplate Service
+# Boilerplate API Service
 
-[![Build Status](https://img.shields.io/travis/deshboard/boilerplate-service.svg?style=flat-square)](https://travis-ci.org/deshboard/boilerplate-service)
+[![Build Status](https://img.shields.io/travis/deshboard/boilerplate-api-service.svg?style=flat-square)](https://travis-ci.org/deshboard/boilerplate-api-service)
 
 
 ## Documentation
